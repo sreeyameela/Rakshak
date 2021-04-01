@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629221101143",
+    "firebase_url": "https://locationsms-1c086.firebaseio.com",
+    "project_id": "locationsms-1c086",
+    "storage_bucket": "locationsms-1c086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629221101143:android:42bb451e631e4bc5439d12",
+        "android_client_info": {
+          "package_name": "com.example.locationsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629221101143-3b98173k5k75lc0kbssp04ohd7539unn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationsms",
+            "certificate_hash": "3e0db7b782b21ce088123c7cf890fedf870e2b71"
+          }
+        },
+        {
+          "client_id": "629221101143-pght9cg6f8ug7trqlfmhqbm09kb4crbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAya1r7yulBPT550fbOEaXjEuvCxNGfrEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629221101143-pght9cg6f8ug7trqlfmhqbm09kb4crbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
